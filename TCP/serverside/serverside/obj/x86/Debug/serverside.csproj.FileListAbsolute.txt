@@ -1,0 +1,6 @@
+/root/Projects/serverside/serverside/obj/x86/Debug/serverside.csprojResolveAssemblyReference.cache
+/root/Projects/serverside/serverside/obj/x86/Debug/serverside.csproj.CoreCompileInputs.cache
+/root/Projects/serverside/serverside/bin/Debug/serverside.exe
+/root/Projects/serverside/serverside/bin/Debug/serverside.pdb
+/root/Projects/serverside/serverside/obj/x86/Debug/serverside.exe
+/root/Projects/serverside/serverside/obj/x86/Debug/serverside.pdb

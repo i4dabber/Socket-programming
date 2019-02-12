@@ -1,0 +1,6 @@
+/root/Projects/clientside/clientside/bin/Debug/clientside.exe
+/root/Projects/clientside/clientside/bin/Debug/clientside.pdb
+/root/Projects/clientside/clientside/obj/x86/Debug/clientside.csprojResolveAssemblyReference.cache
+/root/Projects/clientside/clientside/obj/x86/Debug/clientside.csproj.CoreCompileInputs.cache
+/root/Projects/clientside/clientside/obj/x86/Debug/clientside.exe
+/root/Projects/clientside/clientside/obj/x86/Debug/clientside.pdb
